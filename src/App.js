@@ -10,10 +10,12 @@ function App() {
         <Rectangle/>
         <Rectangle/>
 
-        <Block borderColor={"black"} backColor={"white"}/>
-        <Block borderColor={"yellow"} backColor={"blue"}/>
-        <Block borderColor={"red"} backColor={"green"}/>
-
+        <Block borderColor={"black"} backColor={"white"} clicky={false}/>
+        <Block borderColor={"yellow"} backColor={"blue"} clicky={false}/>
+        <Block borderColor={"red"} backColor={"green"} clicky={false}/>
+        <Block borderColor={"red"} backColor={"blue"} clicky={true}/>
+        <Block borderColor={"red"} backColor={"blue"} clicky={true}/>
+        <Block borderColor={"red"} backColor={"blue"} clicky={true}/>
     </div>
   );
 }

@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d53053a5-2662-4ea9-ba11-890a730be1bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Block.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Rectangle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sylejs/style.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Block.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Block.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,18 +72,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580424634855</updated>
-      <workItem from="1580424637057" duration="2905000" />
+      <workItem from="1580424637057" duration="4081000" />
     </task>
+    <task id="LOCAL-00001" summary="create block component">
+      <created>1580427645404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580427645404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create block component" />
+    <option name="LAST_COMMIT_MESSAGE" value="create block component" />
   </component>
   <component name="WindowStateProjectService">
     <state x="997" y="413" key="#App.js" timestamp="1580425083490">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="997" y="413" key="#App.js/-1920.836.1920.1080/2560.1024.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1580425083490" />
+    <state x="739" y="322" key="CommitChangelistDialog2" timestamp="1580427645131">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="739" y="322" key="CommitChangelistDialog2/-1920.836.1920.1080/2560.1024.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1580427645131" />
     <state width="2539" height="423" key="GridCell.Tab.0.bottom" timestamp="1580427624644">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
